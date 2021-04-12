@@ -1,0 +1,5 @@
+Bundle-Name: my-js-loader
+Bundle-SymbolicName: com.liferay.samples.fbo.my.js.loader
+Bundle-Version: 1.0.0
+Liferay-Theme-Contributor-Type: com.liferay.samples.fbo.my.js.loader
+Web-ContextPath: /my-js-loader-theme-contributor
